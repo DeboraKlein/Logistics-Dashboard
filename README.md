@@ -34,8 +34,9 @@ This dashboard brings together key logistics data to support informed decision-m
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](![Logistics Dashboard - Power BI - Google Chrome 01_07_2025 23_02_06](https://github.com/user-attachments/assets/ef24c929-fef8-4718-b338-0073b09c4b60)
+![Dashboard Preview](![Logistics Dashboard - Power BI - Google Chrome 01_07_2025 23_02_06](https://github.com/user-attachments/assets/9e6874c9-4e1a-4469-bd7f-078ad0aa8838)
 )
+
 
 ---
 
