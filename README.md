@@ -34,7 +34,7 @@ This dashboard brings together key logistics data to support informed decision-m
 
 ##  Dashboard Preview
 
-(![Logistics Dashboard - Power BI - Google Chrome 01_07_2025 23_02_06](https://github.com/user-attachments/assets/9e6874c9-4e1a-4469-bd7f-078ad0aa8838)
+![Logistics Dashboard - Power BI - Google Chrome 01_07_2025 23_02_06](https://github.com/user-attachments/assets/9e6874c9-4e1a-4469-bd7f-078ad0aa8838)
 
 
 
@@ -42,13 +42,13 @@ This dashboard brings together key logistics data to support informed decision-m
 
 ##  Access the Interactive Dashboard
 
- [Click here to view the dashboard]([[URL-TO-YOUR-DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNjA3YmE1NTAtMDJkZC00MTI5LWFhNTktMTU1ZjAwMjM5ZDliIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)]
+ (https://app.powerbi.com/view?r=eyJrIjoiNjA3YmE1NTAtMDJkZC00MTI5LWFhNTktMTU1ZjAwMjM5ZDliIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 ---
 
 ##  Tech Stack
 
 - [Power BI](https://powerbi.microsoft.com/)
-- [SQL / Python] *(if relevant for your data pipeline)*
+- [SQL / Python] **
 
 ---
 
