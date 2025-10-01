@@ -42,7 +42,7 @@ This dashboard brings together key logistics data to support informed decision-m
 
 ##  Access the Interactive Dashboard
 
- (https://app.powerbi.com/view?r=eyJrIjoiNjA3YmE1NTAtMDJkZC00MTI5LWFhNTktMTU1ZjAwMjM5ZDliIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjA3YmE1NTAtMDJkZC00MTI5LWFhNTktMTU1ZjAwMjM5ZDliIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 ---
 
 ##  Tech Stack
