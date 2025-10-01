@@ -1,38 +1,38 @@
-# 📦 Logistics Dashboard
+#  Logistics Dashboard
 
 A dynamic and interactive logistics dashboard designed to provide insights into fleet performance, operational efficiency, and delivery KPIs.
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This dashboard brings together key logistics data to support informed decision-making. It includes:
 
-- ✅ **KPI Cards** for:
+-  **KPI Cards** for:
   - Revenue
   - Profit
   - Mileage (Distance Traveled)
   - Total Trips
 
-- 📊 **Total Trips by Month** *(Column Chart)*  
+-  **Total Trips by Month** *(Column Chart)*  
   Track operational volume and seasonality trends over time.
 
-- 🎯 **On-Time Delivery Gauge**  
+-  **On-Time Delivery Gauge**  
   Displays delivery performance with conditional formatting:
-  - 🔴 Red when under target
-  - 🟢 Green when meeting or exceeding target
+  -  Red when under target
+  -  Green when meeting or exceeding target
 
-- 🚚 **Vehicle Performance Matrix**  
+-  **Vehicle Performance Matrix**  
   Analyze revenue and total trips by:
   - Vehicle Brand
   - Vehicle Type
 
-- ⏳ **Date Slicers**  
+-  **Date Slicers**  
   Filter all visuals by **Year** and **Month** for time-based analysis.
 
 ---
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard Preview](![Logistics Dashboard - Power BI - Google Chrome 01_07_2025 23_02_06](https://github.com/user-attachments/assets/9e6874c9-4e1a-4469-bd7f-078ad0aa8838)
 )
@@ -40,31 +40,31 @@ This dashboard brings together key logistics data to support informed decision-m
 
 ---
 
-## 🔗 Access the Interactive Dashboard
+##  Access the Interactive Dashboard
 
-👉 [Click here to view the dashboard]([[URL-TO-YOUR-DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNjA3YmE1NTAtMDJkZC00MTI5LWFhNTktMTU1ZjAwMjM5ZDliIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)]
+ [Click here to view the dashboard]([[URL-TO-YOUR-DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNjA3YmE1NTAtMDJkZC00MTI5LWFhNTktMTU1ZjAwMjM5ZDliIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)]
 ---
 
-## 💡 Tech Stack
+##  Tech Stack
 
 - [Power BI](https://powerbi.microsoft.com/)
 - [SQL / Python] *(if relevant for your data pipeline)*
 
 ---
 
-## 📈 Key Metric Definitions
+##  Key Metric Definitions
 
-| Metric                | Description                                 |
-|-----------------------|---------------------------------------------|
-| Revenue               | Total income generated from deliveries      |
-| Profit                | Revenue minus operational costs             |
-| Mileage               | Total kilometers driven across trips        |
-| Total Trips           | Number of completed delivery trips          |
+| Metric                | Description                                       |
+|-----------------------|---------------------------------------------------|
+| Revenue               | Total income generated from deliveries            |
+| Profit                | Revenue minus operational costs                   |
+| Mileage               | Total kilometers driven across trips              |
+| Total Trips           | Number of completed delivery trips                |
 | On-Time Delivery Rate | % of deliveries made on or before the agreed date |
 
 ---
 
-## ✨ Insights
+##  Insights
 
 - Identified peak delivery months to better allocate fleet resources  
 - Detected underperforming vehicle types by revenue per trip  
